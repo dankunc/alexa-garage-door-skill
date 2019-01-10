@@ -1,0 +1,14 @@
+{
+  "name": "alexa-myq-skill",
+  "version": "1.0.0",
+  "description": "alexa skill for controlling a myq garage door opener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Kunc",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.3.0"
+  }
+}
